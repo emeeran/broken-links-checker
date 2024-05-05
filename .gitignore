@@ -6,7 +6,10 @@ data/
 scrapped/
 docs/
 notes/
-
+.idea/
+.vscode/
+venv/
+.venv/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
