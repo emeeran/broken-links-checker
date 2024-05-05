@@ -26,4 +26,5 @@ def check_url():
         return jsonify({"valid_links": valid_links}), 200
 
     except requests.exceptions.RequestException as e:
-        return jsonify({"error": "An error occurred while checking the URL"}), 500
+        return jsonify(
+            {"error": "An error occurred while checking the URL"}), 500
