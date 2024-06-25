@@ -1,4 +1,3 @@
-**Project Name:** Dummy Project
 
 **Description.:**
 This is a dummy project created for testing and demonstration purposes. It does not contain any functional code or meaningful content.
